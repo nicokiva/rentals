@@ -20,3 +20,4 @@ This project was divided in 2 folders:
 Unfortunatelly due to lack of time, I was unable to work on the following:
 - Automated testing.
 - Responsiveness of the app (currently it works for desktop only).
+- Store rentals in a database.
